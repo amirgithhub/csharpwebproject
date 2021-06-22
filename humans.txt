@@ -1,0 +1,18 @@
+/* TEAM */
+	Develop & Main Design: A. Eaman
+	Site: http://www.ElmIran.org/
+	From: Tabriz, East Azerbaijan, Iran
+
+/* SITE */
+	Designer: A. Eaman
+	From: Tabriz, East Azerbaijan, Iran
+
+	Designer: H. Baser
+	From: Tabriz, East Azerbaijan, Iran
+
+
+
+/* THANKS */
+	Last update: 2013/3/10
+	Doctype: HTML5, ASP.NET
+	IDE: Notepad++, Photoshop

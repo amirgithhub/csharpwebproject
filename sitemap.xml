@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.elmiran.org/</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/aboutus.aspx</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/contactus.aspx</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/order.aspx</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/siteguide.aspx</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/default.aspx</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/paper.aspx</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1100</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1099</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1098</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1097</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1096</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1095</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1094</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1093</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1092</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1091</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1090</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1089</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1088</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1087</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1086</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1085</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1084</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/ShoppingCart.aspx</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=1&amp;fsubt=ادبیات</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=1&amp;type=1&amp;fsubt=ادبیات&amp;ftype=پایان%20نامه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=1&amp;type=2&amp;fsubt=ادبیات&amp;ftype=مقاله</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=1&amp;type=3&amp;fsubt=ادبیات&amp;ftype=تحقیق</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=1&amp;type=4&amp;fsubt=ادبیات&amp;ftype=ترجمه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=2&amp;fsubt=اقتصاد</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=2&amp;type=1&amp;fsubt=اقتصاد&amp;ftype=پایان%20نامه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=2&amp;type=2&amp;fsubt=اقتصاد&amp;ftype=مقاله</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=2&amp;type=3&amp;fsubt=اقتصاد&amp;ftype=تحقیق</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=2&amp;type=4&amp;fsubt=اقتصاد&amp;ftype=ترجمه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=3&amp;fsubt=الهیات</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=3&amp;type=1&amp;fsubt=الهیات&amp;ftype=پایان%20نامه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=3&amp;type=2&amp;fsubt=الهیات&amp;ftype=مقاله</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=3&amp;type=3&amp;fsubt=الهیات&amp;ftype=تحقیق</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=3&amp;type=4&amp;fsubt=الهیات&amp;ftype=ترجمه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=4&amp;fsubt=پزشکی</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=4&amp;type=1&amp;fsubt=پزشکی&amp;ftype=پایان%20نامه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=4&amp;type=2&amp;fsubt=پزشکی&amp;ftype=مقاله</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=4&amp;type=3&amp;fsubt=پزشکی&amp;ftype=تحقیق</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=4&amp;type=4&amp;fsubt=پزشکی&amp;ftype=ترجمه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=5%20&amp;fsubt=تاریخ</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=5&amp;type=1&amp;fsubt=تاریخ&amp;ftype=پایان%20نامه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=5&amp;type=2&amp;fsubt=تاریخ&amp;ftype=مقاله</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=5&amp;type=3&amp;fsubt=تاریخ&amp;ftype=تحقیق</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=5&amp;type=4&amp;fsubt=تاریخ&amp;ftype=ترجمه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=%206&amp;fsubt=تربیت%20بدنی</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=6&amp;type=1&amp;fsubt=تربیت%20بدنی&amp;ftype=پایان%20نامه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=6&amp;type=2&amp;fsubt=تربیت%20بدنی&amp;ftype=مقاله</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=6&amp;type=3&amp;fsubt=تربیت%20بدنی&amp;ftype=تحقیق</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=6&amp;type=4&amp;fsubt=تربیت%20بدنی&amp;ftype=ترجمه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=7&amp;fsubt=جغرافیا</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=7&amp;type=1&amp;fsubt=جغرافیا&amp;ftype=پایان%20نامه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=7&amp;type=2&amp;fsubt=جغرافیا&amp;ftype=مقاله</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=7&amp;type=3&amp;fsubt=جغرافیا&amp;ftype=تحقیق</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=7&amp;type=4&amp;fsubt=جغرافیا&amp;ftype=ترجمه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=8&amp;fsubt=حسابداری</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=8&amp;type=1&amp;fsubt=حسابداری&amp;ftype=پایان%20نامه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=8&amp;type=2&amp;fsubt=حسابداری&amp;ftype=مقاله</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=8&amp;type=3&amp;fsubt=حسابداری&amp;ftype=تحقیق</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=8&amp;type=4&amp;fsubt=حسابداری&amp;ftype=ترجمه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=9&amp;fsubt=حقوق</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=9&amp;type=1&amp;fsubt=حقوق&amp;ftype=پایان%20نامه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=9&amp;type=2&amp;fsubt=حقوق&amp;ftype=مقاله</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=9&amp;type=3&amp;fsubt=حقوق&amp;ftype=تحقیق</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=9&amp;type=4&amp;fsubt=حقوق&amp;ftype=ترجمه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=10&amp;fsubt=روانشناسی</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=10&amp;type=1&amp;fsubt=روانشناسی&amp;ftype=پایان%20نامه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=10&amp;type=2&amp;fsubt=روانشناسی&amp;ftype=مقاله</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=10&amp;type=3&amp;fsubt=روانشناسی&amp;ftype=تحقیق</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=10&amp;type=4&amp;fsubt=روانشناسی&amp;ftype=ترجمه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=11&amp;fsubt=ریاضی</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=11&amp;type=1&amp;fsubt=ریاضی&amp;ftype=پایان%20نامه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=11&amp;type=2&amp;fsubt=ریاضی&amp;ftype=مقاله</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=11&amp;type=3&amp;fsubt=ریاضی&amp;ftype=تحقیق</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=11&amp;type=4&amp;fsubt=ریاضی&amp;ftype=ترجمه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=12&amp;fsubt=سیاسی</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=12&amp;type=1&amp;fsubt=سیاسی&amp;ftype=پایان%20نامه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=12&amp;type=2&amp;fsubt=سیاسی&amp;ftype=مقاله</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=12&amp;type=3&amp;fsubt=سیاسی&amp;ftype=تحقیق</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=12&amp;type=4&amp;fsubt=سیاسی&amp;ftype=ترجمه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=13&amp;fsubt=علوم%20اجتماعی</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=13&amp;type=1&amp;fsubt=علوم%20اجتماعی&amp;ftype=پایان%20نامه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=13&amp;type=2&amp;fsubt=علوم%20اجتماعی&amp;ftype=مقاله</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=13&amp;type=3&amp;fsubt=علوم%20اجتماعی&amp;ftype=تحقیق</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=13&amp;type=4&amp;fsubt=علوم%20اجتماعی&amp;ftype=ترجمه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=14&amp;fsubt=علوم%20تربیتی</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=14&amp;type=1&amp;fsubt=علوم%20تربیتی&amp;ftype=پایان%20نامه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=14&amp;type=2&amp;fsubt=علوم%20تربیتی&amp;ftype=مقاله</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=14&amp;type=3&amp;fsubt=علوم%20تربیتی&amp;ftype=تحقیق</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=14&amp;type=4&amp;fsubt=علوم%20تربیتی&amp;ftype=ترجمه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=15&amp;fsubt=عمومی</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=15&amp;type=1&amp;fsubt=عمومی&amp;ftype=پایان%20نامه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=15&amp;type=2&amp;fsubt=عمومی&amp;ftype=مقاله</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=15&amp;type=3&amp;fsubt=عمومی&amp;ftype=تحقیق</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=15&amp;type=4&amp;fsubt=عمومی&amp;ftype=ترجمه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=16&amp;fsubt=فرهنگی</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=16&amp;type=1&amp;fsubt=فرهنگی&amp;ftype=پایان%20نامه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=16&amp;type=2&amp;fsubt=فرهنگی&amp;ftype=مقاله</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=16&amp;type=3&amp;fsubt=فرهنگی&amp;ftype=تحقیق</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=16&amp;type=4&amp;fsubt=فرهنگی&amp;ftype=ترجمه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=17&amp;fsubt=فلسفه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=17&amp;type=1&amp;fsubt=فلسفه&amp;ftype=پایان%20نامه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=17&amp;type=3&amp;fsubt=فلسفه&amp;ftype=تحقیق</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=17&amp;type=4&amp;fsubt=فلسفه&amp;ftype=ترجمه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=18&amp;fsubt=کامپیوتر</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=18&amp;type=1&amp;fsubt=کامپیوتر&amp;ftype=پایان%20نامه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=18&amp;type=2&amp;&amp;fsubt=کامپیوتر&amp;ftype=مقاله</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=18&amp;type=3&amp;fsubt=کامپیوتر&amp;ftype=تحقیق</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=18&amp;type=4&amp;fsubt=کامپیوتر&amp;ftype=ترجمه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=19&amp;fsubt=کشاورزی</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=19&amp;type=1&amp;fsubt=کشاورزی&amp;ftype=پایان%20نامه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=19&amp;type=2&amp;fsubt=کشاورزی&amp;ftype=مقاله</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=19&amp;type=3&amp;fsubt=کشاورزی&amp;ftype=تحقیق</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=19&amp;type=4&amp;fsubt=کشاورزی&amp;ftype=ترجمه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=20&amp;fsubt=مدیریت</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=20&amp;type=1&amp;fsubt=مدیریت&amp;ftype=پایان%20نامه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=20&amp;type=2&amp;fsubt=مدیریت&amp;ftype=مقاله</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=20&amp;type=3&amp;fsubt=مدیریت&amp;ftype=تحقیق</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=20&amp;type=4&amp;fsubt=مدیریت&amp;ftype=ترجمه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=21&amp;fsubt=مهندسی</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=21&amp;type=1&amp;fsubt=مهندسی&amp;ftype=پایان%20نامه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=21&amp;type=2&amp;fsubt=مهندسی&amp;ftype=مقاله</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=21&amp;type=3&amp;fsubt=مهندسی&amp;ftype=تحقیق</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=21&amp;type=4&amp;fsubt=مهندسی&amp;ftype=ترجمه</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=all&amp;subt=1</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/paperpay.aspx</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1074</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1028</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1029</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1030</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1082</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1067</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1033</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1037</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1038</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1039</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1055</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1057</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1064</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1066</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1069</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1072</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=search&amp;pagenumber=0&amp;subt=10</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=search&amp;pagenumber=1&amp;subt=10</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1073</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1027</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1032</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1051</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1058</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1061</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1076</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1020</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1041</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1046</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1047</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1048</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1049</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1050</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1071</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1075</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=search&amp;pagenumber=0&amp;subt=14</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=search&amp;pagenumber=1&amp;subt=14</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1036</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1054</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1068</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1079</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1063</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1081</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1065</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1022</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1015</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1016</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1017</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1019</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1021</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1023</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1024</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1025</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1026</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1031</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=search&amp;pagenumber=0&amp;subt=20</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=search&amp;pagenumber=1&amp;subt=20</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=search&amp;pagenumber=2&amp;subt=20</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1034</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=search&amp;pagenumber=0&amp;subt=20&amp;type=1</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/allsrcresult.aspx?cmd=search&amp;pagenumber=1&amp;subt=20&amp;type=1</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1043</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1044</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1056</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1059</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1060</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1018</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1052</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1053</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1062</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1083</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1035</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1040</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1042</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1045</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1070</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1077</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1078</loc>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.elmiran.org/srcresult.aspx?cmd=search&amp;id=1080</loc>
+  <changefreq>daily</changefreq>
+</url>
+</urlset>

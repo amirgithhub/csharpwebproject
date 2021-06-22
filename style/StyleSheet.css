@@ -1,0 +1,59 @@
+﻿.menuTemplate1{position:relative;z-index:4;height:36px;background:#d4d4d4 url(bg.gif);border:1px solid #bbb;font-family:"BBCNassim",Arial,Helvetica,sans-serif;list-style:none;padding:0}.menuTemplate1 td{padding:0;float:left;height:36px;position:relative;color:#000;z-index:5}.menuTemplate1 a{font-family:"BBCNassim",Arial,Helvetica,sans-serif;height:37px;padding:0 30px;line-height:36px;font-size:18px;display:inline-block;outline:0;text-decoration:none;color:#000;position:relative}.menuTemplate1 td:hover,.menuTemplate1 td.onhover{background:#fff url(bg.gif) repeat-x 0 -48px;color:#000;z-index:9}.menuTemplate1 td.menuRight{float:right;margin-right:0}.menuTemplate1 td.separator{font-size:0;overflow:hidden;border-left:1px solid #f7f7f7;border-right:1px solid #bbb;z-index:4}.tboperson{
+                                                                                                                                                                      background-color: #fff;
+border: 2px solid #ccc;
+box-shadow: 0 1px 1px rgba(0,0,0,.075) inset;
+transition: border .2s linear 0,box-shadow .2s linear 0;
+height: 25px;
+border: 1px solid #ccc;
+padding: 4px;
+margin: 2px;
+line-height: 18px;
+display: inline-block;
+height: 18px;
+color: #808080;
+font-size: 13px;
+border-radius: 3px;
+-moz-border-radius: 3px;
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 }#Tablefard{height:25px;font-family:BBCNassim,Tahoma;font-size:15px;text-align:center;}.lrwrap{text-align:justify;direction:rtl;font-family:BBCNassim;font-size:15px;line-height:30px;font-style:normal}
+
+
+.logos
+{
+    margin-bottom: 3px;
+    border: solid 1px #16944a;
+    border-radius: 2px;
+}
+
+
+
+.theeven
+
+{
+    background-color:rgb(255, 106, 0);
+ 
+
+	
+	color: white;
+    font-family: tahoma;
+font-size: 13px;
+border-radius:6px;
+vertical-align:middle;
+
+}
+.theodd
+{
+
+background-color:rgb(54, 148, 223);
+
+	
+	color:white;
+
+
+font-family:tahoma;
+font-size: 13px;
+
+background-color:#8F62C9;
+text-align: center;
+ /*background-image:-moz-linear-gradient(center top , #62C462, #51A351);*/
+ background-repeat:repeat-x;border-color:rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);color:#FFFFFF;text-shadow:0 -1px 0 rgba(0, 0, 0, 0.25);padding:1px 8px;border-style:solid;border-width:1px;margin:auto;-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:6px;vertical-align:middle;
+}
